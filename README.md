@@ -3,6 +3,8 @@
 
 Requirements? All Standard libraries. So no fluffing around.
 
+CSV file included or build your own
+![image](https://user-images.githubusercontent.com/54505758/145825530-b39a214d-d6f3-4a82-8498-3904b23e4153.png)
 
 Super easy to use:
 
