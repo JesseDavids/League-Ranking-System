@@ -1,7 +1,7 @@
 # League Points Calculator!
 
 
-Requirements? All Standard libraries. So no fluffing around.
+Requirements? All Standard libraries.
 
 CSV file included or build your own
 
